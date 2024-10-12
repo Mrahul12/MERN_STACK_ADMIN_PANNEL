@@ -1,6 +1,7 @@
 # Project Name
 
-This project is a full-stack application built with Node.js for the backend and [frontend framework/library, e.g., React, Vue.js] for the frontend. It demonstrates a typical architecture for modern web applications, allowing users to [briefly describe the main functionality or purpose, e.g., manage tasks, view products, etc.].
+This project is a full-stack application built with Node.js for the backend and [frontend framework/library, e.g., React] for the frontend. It demonstrates a typical architecture for modern web applications, allowing users to [briefly describe the main functionality or purpose, e.g., manage tasks, view products, etc.].
+Admin pannel
 
 ## Features
 
@@ -17,6 +18,7 @@ This project is a full-stack application built with Node.js for the backend and 
 
 This project serves as a learning tool and a foundation for building more complex applications.
 
-#Server start command: ---  npm run start
+
+# Server start command: --- npm run start because we use nodemon for server
 
 # frontend start command: ---- npm run dev
